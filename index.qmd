@@ -17,16 +17,16 @@ toc: false
 page-footer: "&copy; 2024, Lior Levy Meruk"
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+Lior Levy Meruk is a graduating senior from UCLA, about to get her bachelor's in Statistics and Data Science. She is passionate about Data Analysis and Consulting.
 
 ## Education
 
-University of California, San Diego \| San Diego, CA PhD in Mathematics \| Sept 2011 - June 2015
+University of California, Los Angeles \| Los Angeles, CA B.S. in Statistics and Data Science \| Sept 2023 - June 2025
 
-Macalester College \| St. Paul MA B.A in Economics \| Sept 2007 - June 2011
+Diablo Valley College \| Pleasant Hill, CA A.S in Math \| August 2021 - June 2023
 
 ## Experience
 
-Wengo Analytics \| Head Data Scientist \| April 2018 - present
+Congregation B'nai Shalom \| Teacher \| August 2021 - August 2023
 
-GeoScynce \| Chief Analyst \| Spet 2012 - April 2018
+OnTrack Learning \| STEM Tutor \| March 2022 - June 2023
