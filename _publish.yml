@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: c994b45e-065a-4ef7-8fa8-f291019853d2
+      url: 'https://liorlevymeruk.netlify.app'
