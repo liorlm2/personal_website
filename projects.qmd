@@ -1,0 +1,10 @@
+---
+title: "Projects"
+toc: false
+---
+
+## Project 1
+Here is my project: [project 1](/projects/01-projects.qmd)
+
+## Project 2
+Here is my project: [project 2](/projects/02-projects.qmd)

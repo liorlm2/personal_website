@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Lior Levy Meruk",
@@ -26,5 +19,33 @@
     "title": "Lior Levy Meruk",
     "section": "Experience",
     "text": "Experience\nCongregation B’nai Shalom | Teacher | August 2021 - August 2023\nOnTrack Learning | STEM Tutor | March 2022 - June 2023"
+  },
+  {
+    "objectID": "projects/02-project.html",
+    "href": "projects/02-project.html",
+    "title": "Stats 101B Project",
+    "section": "",
+    "text": "Here is my project:\n\nrnorm(1000) |&gt; hist()"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is my project: project 1"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is my project: project 1"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "Projects",
+    "section": "Project 2",
+    "text": "Project 2\nHere is my project: project 2"
   }
 ]

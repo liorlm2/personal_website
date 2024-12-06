@@ -11,7 +11,7 @@ about:
       icon: linkedin
       url: "https://www.linkedin.com/in/lior-levy-meruk/"
     - text: mail
-      icon: google
+      icon: inbox-fill
       url: "mailto:liorlevymeruk@gmail.com"
 toc: false
 page-footer: "&copy; 2024, Lior Levy Meruk"

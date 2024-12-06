@@ -1,0 +1,10 @@
+---
+title: Stats 101B Project
+---
+
+Here is my project:
+
+```{r}
+rnorm(1000) |> hist()
+```
+
