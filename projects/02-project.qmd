@@ -1,10 +1,8 @@
 ---
-title: Stats 101B Project
+title: The Short-Term Effects of Alcoholic Consumption on Athletic Abilities
 ---
 
-Here is my project:
+Project done as a part of Stats 101B (UCLA):
+DOWNLOAD [101B_REPORT](/101B_Final_Report.pdf)
 
-```{r}
-rnorm(1000) |> hist()
-```
 

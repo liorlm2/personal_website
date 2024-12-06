@@ -3,8 +3,14 @@ title: "Projects"
 toc: false
 ---
 
-## Project 1
-Here is my project: [project 1](/projects/01-projects.qmd)
+### Project 1: Predicting Movie Ratings
+Link to project: [project 1](/projects/01-project.qmd)
 
-## Project 2
-Here is my project: [project 2](/projects/02-projects.qmd)
+### Project 2: Alcohol Effect Analysis on Athletic Abilities
+Link to project: [project 2](/projects/02-project.qmd)
+
+### Project 3: Predicting NBA Game Results
+Link to project: TBD
+
+### Project 4: Predicting Mortality from Heart Failure
+Link to project: [project 4](/projects/04-project.qmd)

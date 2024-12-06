@@ -1,0 +1,7 @@
+---
+title: Predicting Movie Ratings With Regression Model Based on Budget, Gross Revenue, and Runtime
+---
+
+Project done as a part of Stats 101A (UCLA):
+DOWNLOAD [101A_REPORT](/101A_Final_Report.pdf)
+

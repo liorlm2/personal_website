@@ -1,0 +1,17 @@
+{
+  "hash": "635463013e421b3200d2397e26f29638",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Stats 101A Project\n---\n\n\n\nHere is my project:\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrnorm(1000) |> hist()\n```\n\n::: {.cell-output-display}\n![](01-project_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "01-project_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

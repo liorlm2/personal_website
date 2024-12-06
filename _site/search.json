@@ -21,31 +21,31 @@
     "text": "Experience\nCongregation B’nai Shalom | Teacher | August 2021 - August 2023\nOnTrack Learning | STEM Tutor | March 2022 - June 2023"
   },
   {
+    "objectID": "projects/04-project.html",
+    "href": "projects/04-project.html",
+    "title": "Analyzing Mortality Factors in Heart Disease Patients",
+    "section": "",
+    "text": "Project done as a part of Stats 140XP (Statistical Consulting at UCLA): DOWNLOAD 140XP_POSTER"
+  },
+  {
     "objectID": "projects/02-project.html",
     "href": "projects/02-project.html",
-    "title": "Stats 101B Project",
+    "title": "The Short-Term Effects of Alcoholic Consumption on Athletic Abilities",
     "section": "",
-    "text": "Here is my project:\n\nrnorm(1000) |&gt; hist()"
+    "text": "Project done as a part of Stats 101B (UCLA): DOWNLOAD 101B_REPORT"
+  },
+  {
+    "objectID": "projects/01-project.html",
+    "href": "projects/01-project.html",
+    "title": "Predicting Movie Ratings With Regression Model Based on Budget, Gross Revenue, and Runtime",
+    "section": "",
+    "text": "Project done as a part of Stats 101A (UCLA): DOWNLOAD 101A_REPORT"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here is my project: project 1"
-  },
-  {
-    "objectID": "projects.html#project-1",
-    "href": "projects.html#project-1",
-    "title": "Projects",
-    "section": "",
-    "text": "Here is my project: project 1"
-  },
-  {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2\nHere is my project: project 2"
+    "text": "Project 1: Predicting Movie Ratings\nLink to project: project 1\n\n\nProject 2: Alcohol Effect Analysis on Athletic Abilities\nLink to project: project 2\n\n\nProject 3: Predicting NBA Game Results\nLink to project: TBD\n\n\nProject 4: Predicting Mortality from Heart Failure\nLink to project: project 4"
   }
 ]
