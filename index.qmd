@@ -10,7 +10,7 @@ about:
     - text: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/lior-levy-meruk/"
-    - text: mail
+    - text: Email
       icon: inbox-fill
       url: "mailto:liorlevymeruk@gmail.com"
 toc: false
