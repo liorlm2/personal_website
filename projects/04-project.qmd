@@ -4,3 +4,4 @@ title: Analyzing Mortality Factors in Heart Disease Patients
 
 Project done as a part of Stats 140XP (Statistical Consulting at UCLA):
 DOWNLOAD [140XP_POSTER](/140XP_Poster.pdf)
+DOWNLOAD [140XP_Final_Report]

@@ -4,13 +4,25 @@ toc: false
 ---
 
 ### Project 1: Predicting Movie Ratings
-Link to project: [project 1](/projects/01-project.qmd)
+
+Link to project: [Project 1](/projects/01-project.qmd)
 
 ### Project 2: Alcohol Effect Analysis on Athletic Abilities
-Link to project: [project 2](/projects/02-project.qmd)
 
-### Project 3: Predicting NBA Game Results
-Link to project: [project 3](/projects/03-project.qmd)
+Link to project: [Project 2](/projects/02-project.qmd)
+
+### Project 3: NBA Game Outcome Prediction Model
+
+Link to project: [Project 3](/projects/03-project.qmd)
 
 ### Project 4: Predicting Mortality from Heart Failure
-Link to project: [project 4](/projects/04-project.qmd)
+
+Link to project: [Project 4](/projects/04-project.qmd)
+
+## Project 5: UCLA English Placement Score Analysis
+
+Link to project: [Project 5](/projects/05-project.qmd)
+
+## Project 6: Comparing Musical Lyrics Over Time
+
+Link to project: [Project 6](/projects/06-project.qmd)
