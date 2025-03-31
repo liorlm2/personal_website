@@ -1,0 +1,6 @@
+---
+title: NBA Game Outcome Prediction Model 
+---
+
+Project done as a part of Stats 101C (UCLA):
+DOWNLOAD [101C_REPORT](/101C_Final_Report.pdf)

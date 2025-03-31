@@ -17,7 +17,7 @@ toc: false
 page-footer: "&copy; 2024, Lior Levy Meruk"
 ---
 
-Lior Levy Meruk is a graduating senior from UCLA, about to get her bachelor's in Statistics and Data Science. She is passionate about Data Analysis and Consulting.
+Lior Levy Meruk is a graduating senior, about to get her bachelor's degree in Statistics and Data Science from UCLA. She is passionate about Data Analysis and Consulting, and plans to explore those subjects after graduation.
 
 ## Education
 
@@ -26,6 +26,8 @@ University of California, Los Angeles \| Los Angeles, CA B.S. in Statistics and 
 Diablo Valley College \| Pleasant Hill, CA A.S in Math \| August 2021 - June 2023
 
 ## Experience
+
+Sinai Temple \| Teacher \| August 2023 - Present
 
 Congregation B'nai Shalom \| Teacher \| August 2021 - August 2023
 

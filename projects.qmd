@@ -10,7 +10,7 @@ Link to project: [project 1](/projects/01-project.qmd)
 Link to project: [project 2](/projects/02-project.qmd)
 
 ### Project 3: Predicting NBA Game Results
-Link to project: TBD
+Link to project: [project 3](/projects/03-project.qmd)
 
 ### Project 4: Predicting Mortality from Heart Failure
 Link to project: [project 4](/projects/04-project.qmd)
