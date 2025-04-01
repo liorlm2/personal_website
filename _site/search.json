@@ -25,7 +25,7 @@
     "href": "projects/05-project.html",
     "title": "UCLA English Placement Result Analysis",
     "section": "",
-    "text": "Project done as a part of Stats 140XP (UCLA Capstone Course): DOWNLOAD 141XP_Final_Report"
+    "text": "Project done as a part of Practice of Statistical Consulting (UCLA Capstone Course):\nDOWNLOAD Final Report\n\nProject Abstract:\nEnglish placement tests are widely used in universities across the nation. However, there is the possibility of social or economic factors that may affect students’ performances (Lee and Greene 2007). The focus of this project is to find out if there is a correlation between student demographics information and their post-test survey result and final English placement result. In addition, we are also interested in the relationship between the post-test survey and their final placement class. Through different statistical tests and models we ran, we found out that there is a positive correlation between student’s underrepresented minority status and their final placement result as well as post-test surveys. In addition, we found out that the post-survey result also has a positive correlation with final placement result, indicating that student confidence in writing affects student final placement result."
   },
   {
     "objectID": "projects/03-project.html",
@@ -53,20 +53,20 @@
     "href": "projects/04-project.html",
     "title": "Analyzing Mortality Factors in Heart Disease Patients",
     "section": "",
-    "text": "Project done as a part of Stats 140XP (Statistical Consulting at UCLA): DOWNLOAD 140XP_POSTER DOWNLOAD [140XP_Final_Report]"
+    "text": "Project done as a part of Stats 140XP (Statistical Consulting at UCLA):\nDOWNLOAD 140XP_POSTER\nDOWNLOAD [140XP_Final_Report]\n\nProject Abstract:\nThis study attempts to answer one main question: what inherited and acquired traits and general factors significantly influence mortality from heart disease? We chose 4 variables to explore: age, high cholesterol, diabetes, and gender. Using 2-sample t-tests, Chi-square goodness-of-fit tests, and a logistic regression model, we explored which factors are significant to mortality in heart disease patients, which we found all are significant. This is consistent with outside research our team has found."
   },
   {
     "objectID": "projects/06-project.html",
     "href": "projects/06-project.html",
     "title": "Analyzing Lyrics Through the Decades",
     "section": "",
-    "text": "Project done as a part of Stats 133 (UCLA Text Mining Course): DOWNLOAD 133_Final_Report"
+    "text": "Project done as a part of Stats 133 (UCLA Text Mining Course):\nDOWNLOAD FINAL REPORT\n\nProject Abstract:\nIt is a well-known fact that culture and identity play a significant role in the development of musical styles and lyrics (Tran 2023). To test this theory, our team decided to investigate a dataset containing the top 100 songs from the years 1959-2023 in the USA. Our main goal is to investigate and analyze the lyrics of every song and discover trends over time, hopefully related to shifts in our society. To begin, we constructed a corpus from the lyrics column and cleaned the text with various methods. We decided to split the data into decades, in order to make it easier to see patterns, differences, and trends. After performing sentiment analysis, looking at most frequency words and bigrams, using LDA, and even word clouds (all per decade), we then constructed a predictive model to try and predict whether an artist is male or female based on their lyrics alone. Our results show how artists react to the ever changing world around them and how words stay powerful and relevant through all the years."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "UCLA English Placement Score Analysis\n\n\nComparing Musical Lyrics Over Time\n\n\nNBA Game Outcome Prediction Model\n\n\nPredicting Mortality from Heart Failure\n\n\nAlcohol Effect Analysis on Athletic Abilities\n\n\nPredicting Movie IDMB Scores"
+    "text": "UCLA English Placement Score Analysis\n\n\nComparing Musical Lyrics Over Time\n\n\nNBA Game Outcome Prediction Model\n\n\nPredicting Mortality from Heart Failure\n\n\nAlcohol Effect Analysis on Athletic Abilities\n\n\nPredicting Movie IMDB Scores"
   }
 ]

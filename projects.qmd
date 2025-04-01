@@ -14,7 +14,7 @@ toc: false
 
 ### [Alcohol Effect Analysis on Athletic Abilities](/projects/02-project.qmd)
 
-### [Predicting Movie IDMB Scores](/projects/01-project.qmd)
+### [Predicting Movie IMDB Scores](/projects/01-project.qmd)
 
 
 

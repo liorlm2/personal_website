@@ -3,5 +3,15 @@ title: Analyzing Mortality Factors in Heart Disease Patients
 ---
 
 Project done as a part of Stats 140XP (Statistical Consulting at UCLA):
+
 DOWNLOAD [140XP_POSTER](/140XP_Poster.pdf)
+
 DOWNLOAD [140XP_Final_Report]
+
+### Project Abstract:
+This study attempts to answer one main question: what inherited and acquired traits
+and general factors significantly influence mortality from heart disease? We chose 4 variables
+to explore: age, high cholesterol, diabetes, and gender. Using 2-sample t-tests, Chi-square
+goodness-of-fit tests, and a logistic regression model, we explored which factors are significant
+to mortality in heart disease patients, which we found all are significant. This is consistent
+with outside research our team has found.

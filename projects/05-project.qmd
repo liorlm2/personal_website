@@ -2,7 +2,18 @@
 title: UCLA English Placement Result Analysis
 ---
 
-Project done as a part of Stats 140XP (UCLA Capstone Course):
-DOWNLOAD [141XP_Final_Report](/141XP_Final_Report (12).pdf)
+Project done as a part of Practice of Statistical Consulting (UCLA Capstone Course):
 
+DOWNLOAD [Final Report](/141XP_Final_Report (12).pdf)
 
+### Project Abstract:
+English placement tests are widely used in universities across the nation. However, there is the
+possibility of social or economic factors that may affect students’ performances (Lee and Greene
+2007). The focus of this project is to find out if there is a correlation between student demographics
+information and their post-test survey result and final English placement result. In addition,
+we are also interested in the relationship between the post-test survey and their final placement
+class. Through different statistical tests and models we ran, we found out that there is a positive
+correlation between student’s underrepresented minority status and their final placement result as
+well as post-test surveys. In addition, we found out that the post-survey result also has a positive
+correlation with final placement result, indicating that student confidence in writing affects student
+final placement result.
