@@ -13,14 +13,12 @@ about:
     - text: Email
       icon: inbox-fill
       url: "mailto:liorlevymeruk@gmail.com"
-    - text: Resume
-      icon: paper
-      href: Lior_Levy_Meruk_Resume.pdf 
 toc: false
 page-footer: "&copy; 2024, Lior Levy Meruk"
 ---
 
 Lior Levy Meruk is a graduating senior, about to get her bachelor's degree in Statistics and Data Science from UCLA. She is passionate about Data Analysis and Consulting, and plans to explore those subjects after graduation.
+[Resume](/Lior_Levy_Meruk_Resume.pdf)
 
 ## Education
 
