@@ -3,6 +3,13 @@ title: "Projects"
 toc: false
 ---
 
+
+### [UCLA English Placement Score Analysis](/projects/05-project.qmd)
+
+### [Comparing Musical Lyrics Over Time](/projects/06-project.qmd)
+
+### [NBA Game Outcome Prediction Model](/projects/03-project.qmd)
+
 ### Project 1: Predicting Movie Ratings
 
 Link to project: [Project 1](/projects/01-project.qmd)
@@ -18,10 +25,6 @@ Link to project: [Project 3](/projects/03-project.qmd)
 ### Project 4: Predicting Mortality from Heart Failure
 
 Link to project: [Project 4](/projects/04-project.qmd)
-
-## Project 5: UCLA English Placement Score Analysis
-
-Link to project: [Project 5](/projects/05-project.qmd)
 
 ## Project 6: Comparing Musical Lyrics Over Time
 
