@@ -21,6 +21,20 @@
     "text": "Experience\nSinai Temple | Teacher | August 2023 - Present\nCongregation B’nai Shalom | Teacher | August 2021 - August 2023\nOnTrack Learning | STEM Tutor | March 2022 - June 2023"
   },
   {
+    "objectID": "projects/05-project.html",
+    "href": "projects/05-project.html",
+    "title": "UCLA English Placement Result Analysis",
+    "section": "",
+    "text": "Project done as a part of Stats 140XP (UCLA Capstone Course): DOWNLOAD 141XP_Final_Report"
+  },
+  {
+    "objectID": "projects/03-project.html",
+    "href": "projects/03-project.html",
+    "title": "NBA Game Outcome Prediction Model",
+    "section": "",
+    "text": "Project done as a part of Stats 101C (UCLA): DOWNLOAD 101C_REPORT"
+  },
+  {
     "objectID": "projects/01-project.html",
     "href": "projects/01-project.html",
     "title": "Predicting Movie Ratings With Regression Model Based on Budget, Gross Revenue, and Runtime",
@@ -39,20 +53,34 @@
     "href": "projects/04-project.html",
     "title": "Analyzing Mortality Factors in Heart Disease Patients",
     "section": "",
-    "text": "Project done as a part of Stats 140XP (Statistical Consulting at UCLA): DOWNLOAD 140XP_POSTER"
+    "text": "Project done as a part of Stats 140XP (Statistical Consulting at UCLA): DOWNLOAD 140XP_POSTER DOWNLOAD [140XP_Final_Report]"
+  },
+  {
+    "objectID": "projects/06-project.html",
+    "href": "projects/06-project.html",
+    "title": "Analyzing Lyrics Through the Decades",
+    "section": "",
+    "text": "Project done as a part of Stats 133 (UCLA Text Mining Course): DOWNLOAD 133_Final_Report"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Project 1: Predicting Movie Ratings\nLink to project: project 1\n\n\nProject 2: Alcohol Effect Analysis on Athletic Abilities\nLink to project: project 2\n\n\nProject 3: Predicting NBA Game Results\nLink to project: project 3\n\n\nProject 4: Predicting Mortality from Heart Failure\nLink to project: project 4"
+    "text": "Link to project: Project 1"
   },
   {
-    "objectID": "projects/03-project.html",
-    "href": "projects/03-project.html",
-    "title": "NBA Game Outcome Prediction Model",
-    "section": "",
-    "text": "Project done as a part of Stats 101C (UCLA): DOWNLOAD 101C_REPORT"
+    "objectID": "projects.html#project-5-ucla-english-placement-score-analysis",
+    "href": "projects.html#project-5-ucla-english-placement-score-analysis",
+    "title": "Projects",
+    "section": "Project 5: UCLA English Placement Score Analysis",
+    "text": "Project 5: UCLA English Placement Score Analysis\nLink to project: Project 5"
+  },
+  {
+    "objectID": "projects.html#project-6-comparing-musical-lyrics-over-time",
+    "href": "projects.html#project-6-comparing-musical-lyrics-over-time",
+    "title": "Projects",
+    "section": "Project 6: Comparing Musical Lyrics Over Time",
+    "text": "Project 6: Comparing Musical Lyrics Over Time\nLink to project: Project 6"
   }
 ]
