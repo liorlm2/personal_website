@@ -2,7 +2,8 @@
 title: The Short-Term Effects of Alcoholic Consumption on Athletic Abilities
 ---
 
-Project done as a part of Stats 101B (UCLA):
-DOWNLOAD [101B_REPORT](/101B_Final_Report.pdf)
+Project done as a part of Introduction to Design and Analysis of Experiment Course (UCLA):
+
+DOWNLOAD [FINAL REPORT](/101B_Final_Report.pdf)
 
 
