@@ -1,0 +1,16 @@
+---
+title: Researching and Visualizing Food Insecurity in West Africa – Digital Humanities Project
+url: 'foodsecurity.humspace.ucla.edu'
+---
+
+Project done as a part of Digital Humanities course (UCLA):
+
+- Researched and analyzed root causes of food insecurity in West Africa, integrating data on agricultural productivity, climate, and conflict
+
+- Created interactive Tableau visualizations to communicate geographic and socioeconomic patterns in food access
+
+- Designed and built the project website using WordPress, customizing layout and structure with HTML and CSS to enhance narrative flow and user experience
+
+Presented findings through a public-facing digital narrative: foodsecurity.humspace.ucla.edu
+
+

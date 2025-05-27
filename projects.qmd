@@ -10,6 +10,8 @@ toc: false
 
 ### [NBA Game Outcome Prediction Model](/projects/03-project.qmd)
 
+### [Food Insecurity in West Africa – Digital Humanities Project](/projects/07-project.qmd)
+
 ### [Predicting Mortality from Heart Failure](/projects/04-project.qmd)
 
 ### [Alcohol Effect Analysis on Athletic Abilities](/projects/02-project.qmd)
